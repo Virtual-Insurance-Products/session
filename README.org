@@ -1,0 +1,4 @@
+#+TITLE: session.asd
+
+This is a session handling library I wrote many years ago to work with
+aserve, but kept using because it basically works.
